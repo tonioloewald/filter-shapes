@@ -2,9 +2,10 @@
 
 [github](https://github.com/tonioloewald/filter-shapes) | [npm](https://www.npmjs.com/package/filter-shapes)
 
-**filter-shapes** `filter` function lets you filter an object using an example of that shape (these
-examples are `type` values, see [type-by-example](https://github.com/tonioloewald/type-by-example)). The way `type-by-example` type values work is that an example of what you want will usually do the trick:
-np
+**filter-shapes** `filter` function lets you filter an object using an example of that "shape" (these
+examples are `type` values, see [type-by-example](https://github.com/tonioloewald/type-by-example)). 
+The way `type-by-example` type values work is that an example of what you want will usually do the trick.
+
 ## Filtering Simple Values
 
 Simple values will be filtered using examples in an obvious way, and more specifically
